@@ -1,7 +1,7 @@
 ---
-title: "Título de tu blog post"
-date: 2022-03-01
-description: 'Descripción de tu blog post'
+title: "Este es mi blog personal"
+date: 2022-04-06
+description: 'Aqui voy a subir mis avances en este nuevo proyecto'
 ---
 
-Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.
+Gracias.
